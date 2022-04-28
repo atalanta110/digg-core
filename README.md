@@ -1,4 +1,4 @@
-# Badger
+# uFragments
 Forked from [Ampleforth](https://github.com/ampleforth/uFragments) @ commit hash `9a940f30d62df9dde709974988d3edc5546d6721`
 
 [![Build Status](https://travis-ci.com/ampleforth/uFragments.svg?token=xxNsLhLrTiyG3pc78i5v&branch=master)](https://travis-ci.com/ampleforth/uFragments)&nbsp;&nbsp;[![Coverage Status](https://coveralls.io/repos/github/frgprotocol/uFragments/badge.svg?branch=master&t=GiWi8p)](https://coveralls.io/github/frgprotocol/uFragments?branch=master)
